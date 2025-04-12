@@ -17,6 +17,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Program:
 (i) To find the L and U matrix
+
 ![image](https://github.com/user-attachments/assets/46a4e7d6-4c1c-47d1-a24b-835c72886610)
 
 
